@@ -2,7 +2,10 @@
 
 Parent-friendly practice for Alexia Su (Year 4 now, Year 5 stretch).
 
+**Live:** https://dsu9944.github.io/Scholarship/
+
 **Practice only - not an official AAS paper.**
+
 
 ## What is included
 
@@ -15,7 +18,7 @@ Parent-friendly practice for Alexia Su (Year 4 now, Year 5 stretch).
 
 Full mock ~2h25m. Prefer one section first.
 
-## How Joe runs it
+## Optional: run locally
 
 Needs Node.js (LTS).
 
